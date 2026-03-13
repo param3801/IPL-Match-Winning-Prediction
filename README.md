@@ -6,6 +6,14 @@ The model is trained on **historical IPL match data** and uses **feature enginee
 
 ---
 
+# 🚀 Demo Video
+
+[https://todayipl.onrender.com/](https://docs.google.com/videos/d/1ak0empp9OpJMJoDqBFjgJhAFcbr-DDXv_SvZePCqEnQ/edit?usp=drive_link)
+
+
+---
+---
+
 # 🚀 Live Demo
 
 https://todayipl.onrender.com/
