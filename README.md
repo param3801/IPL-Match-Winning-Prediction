@@ -123,6 +123,7 @@ The trained model predicts **winning probability for both teams based on the cur
 ✔ Feature engineering for better prediction
 ✔ Feature selection to improve model performance
 ✔ Simple **HTML + CSS user interface**
+✔ Flask
 ✔ Real-time prediction based on match inputs
 
 ---
